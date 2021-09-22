@@ -11,3 +11,7 @@ git init
 git add .
 4. Recordar que siempre puedo usar:
 git status
+
+#######
+Para agregar todos los cambios al repositorio local usamos :
+git commit -a
