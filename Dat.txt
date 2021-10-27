@@ -19,3 +19,4 @@ git commit -a
 Para cerrar vin usamos :
 Tecla
 Esc : wq
+
