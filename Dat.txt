@@ -15,3 +15,7 @@ git status
 #######
 Para agregar todos los cambios al repositorio local usamos :
 git commit -a
+
+Para cerrar vin usamos :
+Tecla
+Esc : wq
